@@ -8,11 +8,11 @@ Jump to:
 
 [Conditional Statements and Loops](#conditional-statements-and-loops)
 
-[Strings](Page##strings)
+[Strings](#strings)
 
-[Arrays](Page##arrays)
+[Arrays](#arrays)
 
-[Objects](Page##objects)
+[Objects](#objects)
 
 ## Functions
 
