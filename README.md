@@ -4,9 +4,9 @@ This repo contains a plethora of Javascript problems for extra practice. We reco
 
 Jump to:
 
-[Functions](Page##functions)
+[Functions](#functions)
 
-[Conditional Statements and Loops](Page##conditional-statements-and-loops)
+[Conditional Statements and Loops](#conditional-statements-and-loops)
 
 [Strings](Page##strings)
 
