@@ -2,6 +2,18 @@
 
 This repo contains a plethora of Javascript problems for extra practice. We recommend that you first complete all the algorithm scripting (basic, intermediate, and advanced) in the [pre-course materials](http://precourse.devmounta.in/) and then go through these if you still want additional practice. By completing both the pre-course materials and the drills here, you can claim the title of "Javascript Ninja". :punch:
 
+Jump to:
+
+[Functions](Page##functions)
+
+[Conditional Statements and Loops](Page##conditional-statements-and-loops)
+
+[Strings](Page##strings)
+
+[Arrays](Page##arrays)
+
+[Objects](Page##objects)
+
 ## Functions
 
 1. Write a JavaScript function that reverses a number.
